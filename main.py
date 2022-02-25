@@ -12,7 +12,7 @@ user = {
     "lastName": "Jade",
     "email": "mjade@coruscant.gov",
     "custom": {
-      "groups": ["Jedi", "Human"]
+      "groups": ["Jedi"]
     }
 }
 
